@@ -1,0 +1,37 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 11/3/2026, 13:36:23
+  ==========================================
+  
+
+[2026-03-11T19:36:24.072Z] : [error]: Script Stopped.
+
+[2026-03-11T19:36:24.370Z] : [info]: Total execution time: 32s 363ms
+
+[2026-03-11T19:36:24.371Z] : [info]: ---------------------------------------------
+
+[2026-03-11T19:36:29.889Z] : [success]: Robot saved successfully
+
+[2026-03-11T19:39:26.708Z] : [success]: Robot saved successfully
+
+[2026-03-11T19:39:27.354Z] : [success]: Bot started
+
+[2026-03-11T19:39:27.357Z] : [info]: Robot start
+
+[2026-03-11T19:40:05.382Z] : [success]: Bot finished successfully, total execution time: 38s 21ms
+
+[2026-03-11T19:40:05.384Z] : [info]: ---------------------------------------------
+
+[2026-03-11T19:40:21.199Z] : [success]: Robot saved successfully
+
+[2026-03-11T19:41:33.163Z] : [error]: Script Stopped.
+
+[2026-03-11T19:41:33.394Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2026-03-11T19:41:33.425Z] : [info]: Total execution time: 30s 788ms
+
+[2026-03-11T19:41:33.427Z] : [info]: ---------------------------------------------
+
+[2026-03-11T19:41:33.563Z] : [error]: Cannot read properties of undefined (reading 'value')
+

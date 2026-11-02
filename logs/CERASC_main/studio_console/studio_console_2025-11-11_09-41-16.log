@@ -1,0 +1,267 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 11/11/2025, 9:41:26
+  ==========================================
+  
+
+[2025-11-11T15:42:49.021Z] : [success]: Robot saved successfully
+
+[2025-11-11T15:42:49.860Z] : [info]: ---------------------------------------------
+
+[2025-11-11T15:42:49.865Z] : [success]: Bot started
+
+[2025-11-11T15:42:49.870Z] : [info]: Robot start
+
+[2025-11-11T15:43:19.334Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-11T15:43:19.919Z] : [info]: Total execution time: 29s 463ms
+
+[2025-11-11T15:43:19.921Z] : [info]: ---------------------------------------------
+
+[2025-11-11T15:45:23.190Z] : [success]: Robot saved successfully
+
+[2025-11-11T15:45:23.339Z] : [success]: Bot started
+
+[2025-11-11T15:45:23.341Z] : [info]: Robot start
+
+[2025-11-11T15:45:43.318Z] : [success]: Bot finished successfully, total execution time: 19s 967ms
+
+[2025-11-11T15:45:43.322Z] : [info]: ---------------------------------------------
+
+[2025-11-11T15:47:56.456Z] : [success]: Robot saved successfully
+
+[2025-11-11T15:47:56.565Z] : [success]: Bot started
+
+[2025-11-11T15:47:56.566Z] : [info]: Robot start
+
+[2025-11-11T15:48:16.654Z] : [success]: Bot finished successfully, total execution time: 20s 79ms
+
+[2025-11-11T15:48:16.658Z] : [info]: ---------------------------------------------
+
+[2025-11-11T15:53:29.021Z] : [success]: Robot saved successfully
+
+[2025-11-11T15:53:29.225Z] : [success]: Bot started
+
+[2025-11-11T15:53:29.227Z] : [info]: Robot start
+
+[2025-11-11T15:54:08.115Z] : [success]: Bot finished successfully, total execution time: 38s 881ms
+
+[2025-11-11T15:54:08.119Z] : [info]: ---------------------------------------------
+
+[2025-11-11T15:57:52.956Z] : [success]: Robot saved successfully
+
+[2025-11-11T15:57:53.139Z] : [success]: Bot started
+
+[2025-11-11T15:57:53.141Z] : [info]: Robot start
+
+[2025-11-11T15:58:01.961Z] : [success]: Bot finished successfully, total execution time: 8s 810ms
+
+[2025-11-11T15:58:01.965Z] : [info]: ---------------------------------------------
+
+[2025-11-11T16:04:54.616Z] : [success]: Robot saved successfully
+
+[2025-11-11T16:04:54.780Z] : [success]: Bot started
+
+[2025-11-11T16:04:54.782Z] : [info]: Robot start
+
+[2025-11-11T16:05:07.080Z] : [success]: Bot finished successfully, total execution time: 12s 291ms
+
+[2025-11-11T16:05:07.083Z] : [info]: ---------------------------------------------
+
+[2025-11-11T16:07:10.793Z] : [success]: Robot saved successfully
+
+[2025-11-11T16:07:10.981Z] : [success]: Bot started
+
+[2025-11-11T16:07:10.982Z] : [info]: Robot start
+
+[2025-11-11T16:07:22.989Z] : [success]: Bot finished successfully, total execution time: 12s
+
+[2025-11-11T16:07:22.992Z] : [info]: ---------------------------------------------
+
+[2025-11-11T17:21:22.149Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:26:18.306Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:27:23.203Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:27:23.336Z] : [success]: Bot started
+
+[2025-11-11T18:27:23.337Z] : [info]: Robot start
+
+[2025-11-11T18:27:42.652Z] : [success]: Bot finished successfully, total execution time: 19s 310ms
+
+[2025-11-11T18:27:42.654Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:28:12.919Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:28:13.055Z] : [success]: Bot started
+
+[2025-11-11T18:28:13.056Z] : [info]: Robot start
+
+[2025-11-11T18:28:33.619Z] : [success]: Bot finished successfully, total execution time: 20s 555ms
+
+[2025-11-11T18:28:33.622Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:28:54.232Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:28:54.375Z] : [success]: Bot started
+
+[2025-11-11T18:28:54.376Z] : [info]: Robot start
+
+[2025-11-11T18:29:12.821Z] : [success]: Bot finished successfully, total execution time: 18s 437ms
+
+[2025-11-11T18:29:12.823Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:30:35.227Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:30:35.400Z] : [success]: Bot started
+
+[2025-11-11T18:30:35.401Z] : [info]: Robot start
+
+[2025-11-11T18:30:55.926Z] : [success]: Bot finished successfully, total execution time: 20s 518ms
+
+[2025-11-11T18:30:55.931Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:31:23.466Z] : [success]: Bot started
+
+[2025-11-11T18:31:23.469Z] : [info]: Robot start
+
+[2025-11-11T18:31:43.976Z] : [success]: Bot finished successfully, total execution time: 20s 501ms
+
+[2025-11-11T18:31:43.980Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:33:01.586Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:33:01.933Z] : [success]: Bot started
+
+[2025-11-11T18:33:01.934Z] : [info]: Robot start
+
+[2025-11-11T18:33:24.238Z] : [success]: Bot finished successfully, total execution time: 22s 295ms
+
+[2025-11-11T18:33:24.241Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:33:58.131Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:35:32.089Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:35:40.217Z] : [success]: Bot started
+
+[2025-11-11T18:35:40.221Z] : [info]: Robot start
+
+[2025-11-11T18:36:11.450Z] : [success]: Bot finished successfully, total execution time: 31s 223ms
+
+[2025-11-11T18:36:11.453Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:37:35.349Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:37:35.527Z] : [success]: Bot started
+
+[2025-11-11T18:37:35.528Z] : [info]: Robot start
+
+[2025-11-11T18:38:05.032Z] : [success]: Bot finished successfully, total execution time: 29s 499ms
+
+[2025-11-11T18:38:05.034Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:38:33.177Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:38:44.472Z] : [success]: Bot started
+
+[2025-11-11T18:38:44.473Z] : [info]: Robot start
+
+[2025-11-11T18:39:17.427Z] : [success]: Bot finished successfully, total execution time: 32s 950ms
+
+[2025-11-11T18:39:17.430Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:39:32.770Z] : [success]: Bot started
+
+[2025-11-11T18:39:32.785Z] : [info]: Robot start
+
+[2025-11-11T18:40:04.425Z] : [success]: Bot finished successfully, total execution time: 31s 636ms
+
+[2025-11-11T18:40:04.427Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:40:16.980Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:40:27.611Z] : [success]: Bot started
+
+[2025-11-11T18:40:27.612Z] : [info]: Robot start
+
+[2025-11-11T18:41:02.353Z] : [success]: Bot finished successfully, total execution time: 34s 736ms
+
+[2025-11-11T18:41:02.356Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:41:22.542Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:41:32.787Z] : [success]: Bot started
+
+[2025-11-11T18:41:32.787Z] : [info]: Robot start
+
+[2025-11-11T18:42:11.696Z] : [success]: Bot finished successfully, total execution time: 38s 904ms
+
+[2025-11-11T18:42:11.699Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:42:27.595Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:42:27.925Z] : [success]: Bot started
+
+[2025-11-11T18:42:27.927Z] : [info]: Robot start
+
+[2025-11-11T18:43:06.627Z] : [success]: Bot finished successfully, total execution time: 38s 695ms
+
+[2025-11-11T18:43:06.629Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:43:38.377Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:43:45.549Z] : [success]: Bot started
+
+[2025-11-11T18:43:45.551Z] : [info]: Robot start
+
+[2025-11-11T18:44:31.728Z] : [success]: Bot finished successfully, total execution time: 46s 170ms
+
+[2025-11-11T18:44:31.730Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:46:07.510Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:46:17.554Z] : [success]: Bot started
+
+[2025-11-11T18:46:17.554Z] : [info]: Robot start
+
+[2025-11-11T18:47:07.536Z] : [success]: Bot finished successfully, total execution time: 49s 976ms
+
+[2025-11-11T18:47:07.538Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:47:32.422Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:47:42.540Z] : [success]: Bot started
+
+[2025-11-11T18:47:42.542Z] : [info]: Robot start
+
+[2025-11-11T18:48:34.842Z] : [success]: Bot finished successfully, total execution time: 52s 296ms
+
+[2025-11-11T18:48:34.844Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:51:42.705Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:51:50.125Z] : [success]: Bot started
+
+[2025-11-11T18:51:50.127Z] : [info]: Robot start
+
+[2025-11-11T18:52:16.890Z] : [error]: Script Stopped.
+
+[2025-11-11T18:52:17.408Z] : [info]: Total execution time: 26s 762ms
+
+[2025-11-11T18:52:17.411Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:52:34.028Z] : [success]: Bot started
+
+[2025-11-11T18:52:34.031Z] : [info]: Robot start
+
+[2025-11-11T18:53:39.609Z] : [success]: Bot finished successfully, total execution time: 1m 5s 572ms
+
+[2025-11-11T18:53:39.612Z] : [info]: ---------------------------------------------
+
+[2025-11-11T18:54:40.133Z] : [success]: Robot saved successfully
+
+[2025-11-11T18:58:10.768Z] : [success]: Robot saved successfully
+

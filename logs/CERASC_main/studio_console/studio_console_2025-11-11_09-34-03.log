@@ -1,0 +1,53 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 11/11/2025, 9:34:23
+  ==========================================
+  
+
+[2025-11-11T15:34:30.608Z] : [info]: ---------------------------------------------
+
+[2025-11-11T15:34:30.611Z] : [success]: Bot started
+
+[2025-11-11T15:34:30.612Z] : [info]: Robot start
+
+[2025-11-11T15:34:46.820Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-11T15:34:47.318Z] : [info]: Total execution time: 16s 207ms
+
+[2025-11-11T15:34:47.321Z] : [info]: ---------------------------------------------
+
+[2025-11-11T15:35:00.137Z] : [success]: Bot started
+
+[2025-11-11T15:35:00.137Z] : [info]: Robot start
+
+[2025-11-11T15:35:09.657Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-11T15:35:10.084Z] : [info]: Total execution time: 9s 519ms
+
+[2025-11-11T15:35:10.085Z] : [info]: ---------------------------------------------
+
+[2025-11-11T15:35:48.534Z] : [success]: Robot saved successfully
+
+[2025-11-11T15:35:49.214Z] : [success]: Bot started
+
+[2025-11-11T15:35:49.218Z] : [info]: Robot start
+
+[2025-11-11T15:36:17.168Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-11T15:36:17.351Z] : [info]: Total execution time: 27s 950ms
+
+[2025-11-11T15:36:17.352Z] : [info]: ---------------------------------------------
+
+[2025-11-11T15:38:31.039Z] : [success]: Robot saved successfully
+
+[2025-11-11T15:38:32.240Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-11T15:38:32.310Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-11T15:38:32.325Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-11T15:38:32.346Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-11T15:38:32.478Z] : [error]: Cannot read properties of null (reading 'type')
+

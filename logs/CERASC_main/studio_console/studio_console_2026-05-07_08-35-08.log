@@ -1,0 +1,92 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 7/5/2026, 8:35:13
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 7/5/2026, 8:35:20
+  ==========================================
+  
+
+[2026-05-07T13:35:36.492Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-05-07T13:35:36.496Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-05-07T13:35:36.500Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-05-07T13:35:42.303Z] : [success]: Robot saved successfully
+
+[2026-05-07T15:04:30.853Z] : [info]: Internet connection // error
+
+[2026-05-07T15:04:36.907Z] : [success]: Connection to our licenses server is restored
+
+[2026-05-07T15:08:54.872Z] : [success]: Robot saved successfully
+
+[2026-05-07T15:08:55.308Z] : [info]: ---------------------------------------------
+
+[2026-05-07T15:08:55.309Z] : [success]: Bot started
+
+[2026-05-07T15:08:55.310Z] : [info]: Robot start
+
+[2026-05-07T15:09:19.872Z] : [error]: Script Stopped.
+
+[2026-05-07T15:09:20.644Z] : [info]: Total execution time: 24s 561ms
+
+[2026-05-07T15:09:20.646Z] : [info]: ---------------------------------------------
+
+[2026-05-07T15:10:14.511Z] : [success]: Bot started
+
+[2026-05-07T15:10:14.512Z] : [info]: Robot start
+
+[2026-05-07T15:10:20.826Z] : [error]: Script stopped.
+
+[2026-05-07T15:10:21.058Z] : [info]: Total execution time: 6s 314ms
+
+[2026-05-07T15:10:21.059Z] : [info]: ---------------------------------------------
+
+[2026-05-10T18:04:19.412Z] : [info]: Internet connection // error
+
+[2026-05-12T15:31:54.073Z] : [success]: Connection to our licenses server is restored
+
+[2026-05-13T17:03:46.474Z] : [info]: Internet connection // error
+
+[2026-05-13T17:03:56.299Z] : [success]: Connection to our licenses server is restored
+
+[2026-05-13T17:03:56.744Z] : [error]: Cannot read properties of undefined (reading 'viewContainerRef')
+
+[2026-05-14T04:40:10.315Z] : [info]: Internet connection // error
+
+[2026-05-19T14:32:26.936Z] : [success]: Connection to our licenses server is restored
+
+[2026-05-21T14:07:02.801Z] : [info]: Internet connection // error
+
+[2026-05-21T14:07:09.689Z] : [success]: Connection to our licenses server is restored
+
+[2026-05-21T15:02:50.817Z] : [info]: Internet connection // error
+
+[2026-05-21T15:02:53.451Z] : [success]: Connection to our licenses server is restored
+
+[2026-05-21T18:41:28.908Z] : [info]: Internet connection // error
+
+[2026-05-21T18:41:34.419Z] : [success]: Connection to our licenses server is restored
+
+[2026-05-22T19:33:14.504Z] : [info]: Internet connection // error
+
+[2026-05-22T19:33:24.895Z] : [success]: Connection to our licenses server is restored
+
+[2026-05-22T19:33:24.952Z] : [info]: Internet connection // error
+
+[2026-05-22T19:33:29.279Z] : [success]: Connection to our licenses server is restored
+
+[2026-05-24T14:01:00.620Z] : [info]: Internet connection // error
+
+[2026-05-26T15:03:01.322Z] : [success]: Connection to our licenses server is restored
+
+[2026-05-26T15:47:04.634Z] : [info]: Internet connection // error
+
+[2026-05-26T15:47:06.460Z] : [success]: Connection to our licenses server is restored
+

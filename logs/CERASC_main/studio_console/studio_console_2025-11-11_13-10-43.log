@@ -1,0 +1,113 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 11/11/2025, 13:10:55
+  ==========================================
+  
+
+[2025-11-11T19:11:21.905Z] : [info]: ---------------------------------------------
+
+[2025-11-11T19:11:21.906Z] : [success]: Bot started
+
+[2025-11-11T19:11:21.907Z] : [info]: Robot start
+
+[2025-11-11T19:12:33.381Z] : [success]: Bot finished successfully, total execution time: 1m 11s 455ms
+
+[2025-11-11T19:12:33.387Z] : [info]: ---------------------------------------------
+
+[2025-11-11T19:13:51.744Z] : [success]: Robot saved successfully
+
+[2025-11-11T19:13:52.103Z] : [success]: Bot started
+
+[2025-11-11T19:13:52.105Z] : [info]: Robot start
+
+[2025-11-11T19:14:11.374Z] : [success]: Bot finished successfully, total execution time: 19s 264ms
+
+[2025-11-11T19:14:11.376Z] : [info]: ---------------------------------------------
+
+[2025-11-11T19:14:29.001Z] : [success]: Bot started
+
+[2025-11-11T19:14:29.009Z] : [info]: Robot start
+
+[2025-11-11T19:14:52.375Z] : [success]: Bot finished successfully, total execution time: 23s 355ms
+
+[2025-11-11T19:14:52.382Z] : [info]: ---------------------------------------------
+
+[2025-11-11T19:20:07.163Z] : [success]: Robot saved successfully
+
+[2025-11-11T19:34:36.626Z] : [info]: Internet connection // error
+
+[2025-11-12T04:14:58.275Z] : [success]: Connection to our licenses server is restored
+
+[2025-11-12T14:26:11.681Z] : [info]: Internet connection // error
+
+[2025-11-12T14:26:34.613Z] : [success]: Connection to our licenses server is restored
+
+[2025-11-12T14:30:49.226Z] : [success]: Robot saved successfully
+
+[2025-11-12T14:32:19.594Z] : [success]: Bot started
+
+[2025-11-12T14:32:19.598Z] : [info]: Robot start
+
+[2025-11-12T14:33:48.582Z] : [success]: Bot finished successfully, total execution time: 1m 28s 975ms
+
+[2025-11-12T14:33:48.588Z] : [info]: ---------------------------------------------
+
+[2025-11-12T14:35:41.678Z] : [success]: Robot saved successfully
+
+[2025-11-12T14:35:53.572Z] : [success]: Robot saved successfully
+
+[2025-11-12T14:36:16.436Z] : [success]: Bot started
+
+[2025-11-12T14:36:16.438Z] : [info]: Robot start
+
+[2025-11-12T14:37:38.450Z] : [error]: Script Stopped.
+
+[2025-11-12T14:37:38.973Z] : [info]: Total execution time: 1m 22s 7ms
+
+[2025-11-12T14:37:38.975Z] : [info]: ---------------------------------------------
+
+[2025-11-12T14:37:57.276Z] : [success]: Bot started
+
+[2025-11-12T14:37:57.280Z] : [info]: Robot start
+
+[2025-11-12T14:39:27.256Z] : [success]: Bot finished successfully, total execution time: 1m 29s 963ms
+
+[2025-11-12T14:39:27.259Z] : [info]: ---------------------------------------------
+
+[2025-11-12T14:39:30.336Z] : [success]: Robot saved successfully
+
+[2025-11-12T14:44:23.385Z] : [success]: Robot saved successfully
+
+[2025-11-12T14:47:40.045Z] : [success]: Robot saved successfully
+
+[2025-11-12T15:05:41.094Z] : [success]: Bot started
+
+[2025-11-12T15:05:41.104Z] : [info]: Robot start
+
+[2025-11-12T15:07:00.201Z] : [error]: Script Stopped.
+
+[2025-11-12T15:07:00.709Z] : [info]: Total execution time: 1m 19s 95ms
+
+[2025-11-12T15:07:00.710Z] : [info]: ---------------------------------------------
+
+[2025-11-12T15:07:36.301Z] : [success]: Bot started
+
+[2025-11-12T15:07:36.303Z] : [info]: Robot start
+
+[2025-11-12T15:08:54.279Z] : [success]: Bot finished successfully, total execution time: 1m 17s 969ms
+
+[2025-11-12T15:08:54.281Z] : [info]: ---------------------------------------------
+
+[2025-11-12T15:34:50.735Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-12T15:34:50.738Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-12T15:34:50.741Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-12T15:34:50.744Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-12T15:34:50.750Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-12T15:34:50.753Z] : [error]: Cannot read properties of null (reading 'type')
+

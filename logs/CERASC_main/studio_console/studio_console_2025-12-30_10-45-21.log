@@ -1,0 +1,89 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 30/12/2025, 10:46:05
+  ==========================================
+  
+
+[2025-12-30T16:46:15.712Z] : [info]: Internet connection // error
+
+[2025-12-30T16:46:26.705Z] : [success]: Connection to our licenses server is restored
+
+[2025-12-30T16:46:45.633Z] : [success]: Robot saved successfully
+
+[2025-12-30T16:46:52.810Z] : [info]: ---------------------------------------------
+
+[2025-12-30T16:46:52.811Z] : [success]: Bot started
+
+[2025-12-30T16:46:52.812Z] : [info]: Robot start
+
+[2025-12-30T16:47:33.945Z] : [error]: No extension found. Please 
+
+[2025-12-30T16:47:34.360Z] : [info]: Total execution time: 41s 132ms
+
+[2025-12-30T16:47:34.360Z] : [info]: ---------------------------------------------
+
+[2025-12-30T16:53:30.769Z] : [success]: Bot started
+
+[2025-12-30T16:53:30.771Z] : [info]: Robot start
+
+[2025-12-30T16:54:01.482Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-12-30T16:54:01.822Z] : [info]: Total execution time: 30s 710ms
+
+[2025-12-30T16:54:01.822Z] : [info]: ---------------------------------------------
+
+[2025-12-30T16:54:43.037Z] : [success]: Robot saved successfully
+
+[2025-12-30T16:54:43.380Z] : [success]: Bot started
+
+[2025-12-30T16:54:43.382Z] : [info]: Robot start
+
+[2025-12-30T16:56:04.687Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-12-30T16:56:04.962Z] : [info]: Total execution time: 1m 21s 305ms
+
+[2025-12-30T16:56:04.963Z] : [info]: ---------------------------------------------
+
+[2025-12-30T17:06:43.645Z] : [success]: Robot saved successfully
+
+[2025-12-30T17:06:44.413Z] : [success]: Bot started
+
+[2025-12-30T17:06:44.415Z] : [info]: Robot start
+
+[2025-12-30T17:08:11.201Z] : [error]: Script Stopped.
+
+[2025-12-30T17:08:11.471Z] : [info]: Total execution time: 1m 26s 785ms
+
+[2025-12-30T17:08:11.472Z] : [info]: ---------------------------------------------
+
+[2025-12-30T17:10:37.292Z] : [success]: Robot saved successfully
+
+[2025-12-30T17:12:06.978Z] : [success]: Robot saved successfully
+
+[2025-12-30T17:13:05.371Z] : [success]: Robot saved successfully
+
+[2025-12-30T17:13:05.722Z] : [success]: Bot started
+
+[2025-12-30T17:13:05.722Z] : [info]: Robot start
+
+[2025-12-30T17:16:06.058Z] : [error]: Disposable been disposed
+
+[2025-12-30T17:16:06.270Z] : [info]: Total execution time: 3m 335ms
+
+[2025-12-30T17:16:06.271Z] : [info]: ---------------------------------------------
+
+[2025-12-30T17:24:59.101Z] : [success]: Robot saved successfully
+
+[2025-12-30T17:25:06.248Z] : [success]: Bot started
+
+[2025-12-30T17:25:06.249Z] : [info]: Robot start
+
+[2025-12-30T17:26:06.335Z] : [error]: Script Stopped.
+
+[2025-12-30T17:26:06.575Z] : [info]: Total execution time: 1m 85ms
+
+[2025-12-30T17:26:06.576Z] : [info]: ---------------------------------------------
+
+[2025-12-30T17:30:56.533Z] : [success]: Robot saved successfully
+

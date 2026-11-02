@@ -1,0 +1,121 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 16/2/2026, 13:30:54
+  ==========================================
+  
+
+[2026-02-16T19:32:46.761Z] : [success]: Robot saved successfully
+
+[2026-02-16T19:32:47.170Z] : [info]: ---------------------------------------------
+
+[2026-02-16T19:32:47.171Z] : [success]: Bot started
+
+[2026-02-16T19:32:47.172Z] : [info]: Robot start
+
+[2026-02-16T19:33:20.765Z] : [success]: Bot finished successfully, total execution time: 33s 588ms
+
+[2026-02-16T19:33:20.768Z] : [info]: ---------------------------------------------
+
+[2026-02-17T16:08:13.896Z] : [success]: Robot saved successfully
+
+[2026-02-17T16:08:45.322Z] : [success]: Robot saved successfully
+
+[2026-02-17T16:08:45.548Z] : [success]: Bot started
+
+[2026-02-17T16:08:45.549Z] : [info]: Robot start
+
+[2026-02-17T16:08:56.492Z] : [success]: Bot finished successfully, total execution time: 10s 939ms
+
+[2026-02-17T16:08:56.495Z] : [info]: ---------------------------------------------
+
+[2026-02-17T17:32:29.428Z] : [error]: Cannot read properties of null (reading 'comment')
+
+[2026-02-17T17:45:13.561Z] : [success]: Robot saved successfully
+
+[2026-02-19T15:09:00.699Z] : [info]: Internet connection // error
+
+[2026-02-19T15:09:12.484Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-22T18:23:26.747Z] : [info]: Internet connection // error
+
+[2026-02-22T18:23:38.880Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-22T18:38:11.110Z] : [info]: Internet connection // error
+
+[2026-02-22T18:38:16.328Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-22T19:27:15.023Z] : [info]: Internet connection // error
+
+[2026-02-22T19:27:16.126Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-22T19:28:14.726Z] : [info]: Internet connection // error
+
+[2026-02-22T19:28:18.357Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-22T19:28:26.138Z] : [info]: Internet connection // error
+
+[2026-02-22T19:28:26.617Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-22T19:28:33.394Z] : [info]: Internet connection // error
+
+[2026-02-22T19:28:33.567Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-23T15:21:25.816Z] : [info]: Internet connection // error
+
+[2026-02-23T15:21:33.523Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-23T16:01:58.529Z] : [info]: Internet connection // error
+
+[2026-02-23T16:02:03.257Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-23T16:02:08.420Z] : [info]: Internet connection // error
+
+[2026-02-23T16:02:08.911Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-23T18:14:09.520Z] : [info]: Internet connection // error
+
+[2026-02-23T18:14:14.244Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-23T18:48:25.393Z] : [info]: Internet connection // error
+
+[2026-02-23T18:48:35.544Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-24T16:17:42.496Z] : [info]: Internet connection // error
+
+[2026-02-24T16:17:49.143Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-24T16:19:01.848Z] : [warn]: There is a small amount of free memory (RAM) left, 91.41% of RAM is being used (14696 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2026-02-24T16:20:33.065Z] : [info]: Internet connection // error
+
+[2026-02-24T16:35:42.762Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-24T16:36:28.519Z] : [info]: Internet connection // error
+
+[2026-02-25T15:41:25.774Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-25T15:41:50.603Z] : [info]: Internet connection // error
+
+[2026-02-25T15:41:51.488Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-25T15:52:48.804Z] : [success]: Connection to our licenses server is restored
+
+[2026-02-25T15:53:10.030Z] : [info]: Internet connection // error
+
+[2026-02-25T15:56:11.716Z] : [success]: Robot saved successfully
+
+[2026-02-25T15:56:36.415Z] : [success]: Robot saved successfully
+
+[2026-02-25T15:57:35.372Z] : [success]: Robot saved successfully
+
+[2026-02-25T15:57:35.525Z] : [success]: Bot started
+
+[2026-02-25T15:57:35.526Z] : [info]: Robot start
+
+[2026-02-25T15:57:56.363Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2026-02-25T15:57:56.628Z] : [info]: Total execution time: 20s 836ms
+
+[2026-02-25T15:57:56.629Z] : [info]: ---------------------------------------------
+

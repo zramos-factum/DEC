@@ -1,0 +1,153 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 18/11/2025, 10:29:56
+  ==========================================
+  
+
+[2025-11-18T17:54:05.318Z] : [info]: ---------------------------------------------
+
+[2025-11-18T17:54:05.322Z] : [success]: Bot started
+
+[2025-11-18T17:54:05.323Z] : [info]: Robot start
+
+[2025-11-18T17:55:18.505Z] : [success]: Bot finished successfully, total execution time: 1m 13s 175ms
+
+[2025-11-18T17:55:18.506Z] : [info]: ---------------------------------------------
+
+[2025-11-18T17:57:05.290Z] : [success]: Robot saved successfully
+
+[2025-11-18T17:57:05.461Z] : [success]: Bot started
+
+[2025-11-18T17:57:05.462Z] : [info]: Robot start
+
+[2025-11-18T17:58:38.722Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-18T17:58:38.965Z] : [info]: Total execution time: 1m 33s 258ms
+
+[2025-11-18T17:58:38.965Z] : [info]: ---------------------------------------------
+
+[2025-11-18T18:02:23.368Z] : [success]: Robot saved successfully
+
+[2025-11-18T18:02:27.659Z] : [success]: Bot started
+
+[2025-11-18T18:02:27.660Z] : [info]: Robot start
+
+[2025-11-18T18:03:33.073Z] : [error]: Script Stopped.
+
+[2025-11-18T18:03:33.391Z] : [info]: Total execution time: 1m 5s 412ms
+
+[2025-11-18T18:03:33.392Z] : [info]: ---------------------------------------------
+
+[2025-11-18T18:04:00.089Z] : [success]: Bot started
+
+[2025-11-18T18:04:00.090Z] : [info]: Robot start
+
+[2025-11-18T18:05:31.954Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-18T18:05:32.212Z] : [info]: Total execution time: 1m 31s 863ms
+
+[2025-11-18T18:05:32.213Z] : [info]: ---------------------------------------------
+
+[2025-11-18T18:56:43.122Z] : [success]: Robot saved successfully
+
+[2025-11-18T18:56:43.507Z] : [success]: Bot started
+
+[2025-11-18T18:56:43.508Z] : [info]: Robot start
+
+[2025-11-18T18:57:04.367Z] : [success]: Bot finished successfully, total execution time: 20s 854ms
+
+[2025-11-18T18:57:04.369Z] : [info]: ---------------------------------------------
+
+[2025-11-18T18:57:48.300Z] : [success]: Robot saved successfully
+
+[2025-11-18T18:57:48.565Z] : [success]: Bot started
+
+[2025-11-18T18:57:48.566Z] : [info]: Robot start
+
+[2025-11-18T18:58:22.223Z] : [error]: Script Stopped.
+
+[2025-11-18T18:58:22.680Z] : [info]: Total execution time: 33s 655ms
+
+[2025-11-18T18:58:22.680Z] : [info]: ---------------------------------------------
+
+[2025-11-18T19:00:51.038Z] : [success]: Robot saved successfully
+
+[2025-11-18T19:00:51.549Z] : [success]: Bot started
+
+[2025-11-18T19:00:51.550Z] : [info]: Robot start
+
+[2025-11-18T19:01:08.074Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-18T19:01:08.367Z] : [info]: Total execution time: 16s 523ms
+
+[2025-11-18T19:01:08.369Z] : [info]: ---------------------------------------------
+
+[2025-11-18T19:01:27.429Z] : [success]: Robot saved successfully
+
+[2025-11-18T19:01:27.684Z] : [success]: Bot started
+
+[2025-11-18T19:01:27.686Z] : [info]: Robot start
+
+[2025-11-18T19:01:45.501Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-18T19:01:45.884Z] : [info]: Total execution time: 17s 815ms
+
+[2025-11-18T19:01:45.886Z] : [info]: ---------------------------------------------
+
+[2025-11-18T19:01:58.514Z] : [success]: Robot saved successfully
+
+[2025-11-18T19:01:58.962Z] : [success]: Bot started
+
+[2025-11-18T19:01:58.963Z] : [info]: Robot start
+
+[2025-11-18T19:02:18.375Z] : [success]: Bot finished successfully, total execution time: 19s 408ms
+
+[2025-11-18T19:02:18.377Z] : [info]: ---------------------------------------------
+
+[2025-11-18T19:02:36.728Z] : [success]: Robot saved successfully
+
+[2025-11-18T19:04:19.026Z] : [success]: Robot saved successfully
+
+[2025-11-19T17:46:02.160Z] : [info]: Internet connection // error
+
+[2025-11-19T17:46:26.816Z] : [success]: Connection to our licenses server is restored
+
+[2025-11-19T17:50:04.631Z] : [info]: Internet connection // error
+
+[2025-11-19T17:50:09.593Z] : [success]: Connection to our licenses server is restored
+
+[2025-11-20T14:34:20.488Z] : [info]: Internet connection // error
+
+[2025-11-20T14:34:28.351Z] : [warn]: There is a small amount of free memory (RAM) left, 90.35% of RAM is being used (14526 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-20T14:34:33.319Z] : [success]: Connection to our licenses server is restored
+
+[2025-11-20T14:37:30.286Z] : [warn]: There is a small amount of free memory (RAM) left, 92.15% of RAM is being used (14815 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-20T18:09:51.099Z] : [info]: Internet connection // error
+
+[2025-11-20T18:09:52.714Z] : [success]: Connection to our licenses server is restored
+
+[2025-11-21T17:04:04.431Z] : [info]: Internet connection // error
+
+[2025-11-21T17:04:55.213Z] : [success]: Connection to our licenses server is restored
+
+[2025-11-21T17:05:15.592Z] : [error]: Cannot read properties of undefined (reading 'viewContainerRef')
+
+[2025-11-21T17:08:13.842Z] : [info]: Internet connection // error
+
+[2025-11-21T17:08:16.075Z] : [success]: Connection to our licenses server is restored
+
+[2025-11-21T17:13:24.676Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-21T17:13:24.686Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-21T17:13:24.691Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-21T17:13:24.694Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-21T17:13:24.703Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-21T17:13:24.792Z] : [error]: Cannot read properties of null (reading 'type')
+

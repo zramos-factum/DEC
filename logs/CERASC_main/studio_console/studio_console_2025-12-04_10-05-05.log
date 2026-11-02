@@ -1,0 +1,71 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 4/12/2025, 10:05:15
+  ==========================================
+  
+
+[2025-12-04T16:05:42.474Z] : [info]: ---------------------------------------------
+
+[2025-12-04T16:05:42.475Z] : [success]: Bot started
+
+[2025-12-04T16:05:42.476Z] : [info]: Robot start
+
+[2025-12-04T16:06:26.355Z] : [error]: Disposable been disposed
+
+[2025-12-04T16:06:26.813Z] : [info]: Total execution time: 43s 878ms
+
+[2025-12-04T16:06:26.814Z] : [info]: ---------------------------------------------
+
+[2025-12-04T16:07:18.146Z] : [success]: Bot started
+
+[2025-12-04T16:07:18.148Z] : [info]: Robot start
+
+[2025-12-04T16:08:26.405Z] : [error]: Script Stopped.
+
+[2025-12-04T16:08:26.814Z] : [info]: Total execution time: 1m 8s 257ms
+
+[2025-12-04T16:08:26.815Z] : [info]: ---------------------------------------------
+
+[2025-12-04T16:09:07.568Z] : [success]: Bot started
+
+[2025-12-04T16:09:07.570Z] : [info]: Robot start
+
+[2025-12-04T16:14:47.857Z] : [success]: Bot finished successfully, total execution time: 5m 40s 268ms
+
+[2025-12-04T16:14:47.863Z] : [info]: ---------------------------------------------
+
+[2025-12-04T16:21:07.945Z] : [success]: Robot saved successfully
+
+[2025-12-04T16:21:14.712Z] : [success]: Bot started
+
+[2025-12-04T16:21:14.715Z] : [info]: Robot start
+
+[2025-12-04T16:21:26.240Z] : [success]: Bot finished successfully, total execution time: 11s 522ms
+
+[2025-12-04T16:21:26.242Z] : [info]: ---------------------------------------------
+
+[2025-12-04T16:22:02.006Z] : [success]: Robot saved successfully
+
+[2025-12-04T16:22:13.602Z] : [success]: Bot started
+
+[2025-12-04T16:22:13.603Z] : [info]: Robot start
+
+[2025-12-04T16:22:24.008Z] : [success]: Bot finished successfully, total execution time: 10s 399ms
+
+[2025-12-04T16:22:24.010Z] : [info]: ---------------------------------------------
+
+[2025-12-04T16:22:27.879Z] : [success]: Robot saved successfully
+
+[2025-12-04T16:36:18.449Z] : [success]: Robot saved successfully
+
+[2025-12-04T18:36:49.506Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-12-04T18:36:49.522Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-12-04T18:36:49.525Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-12-04T18:36:49.536Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-12-04T18:36:49.540Z] : [error]: Cannot read properties of null (reading 'type')
+

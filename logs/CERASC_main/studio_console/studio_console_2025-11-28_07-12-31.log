@@ -1,0 +1,457 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 28/11/2025, 7:12:40
+  ==========================================
+  
+
+[2025-11-28T13:12:58.476Z] : [success]: Robot saved successfully
+
+[2025-11-28T13:13:06.241Z] : [info]: ---------------------------------------------
+
+[2025-11-28T13:13:06.244Z] : [success]: Bot started
+
+[2025-11-28T13:13:06.246Z] : [info]: Robot start
+
+[2025-11-28T13:13:20.620Z] : [error]: No extension found. Please 
+
+[2025-11-28T13:13:20.983Z] : [info]: Total execution time: 14s 372ms
+
+[2025-11-28T13:13:20.985Z] : [info]: ---------------------------------------------
+
+[2025-11-28T13:14:07.929Z] : [success]: Robot saved successfully
+
+[2025-11-28T13:14:08.416Z] : [success]: Bot started
+
+[2025-11-28T13:14:08.418Z] : [info]: Robot start
+
+[2025-11-28T13:14:26.479Z] : [error]: No extension found. Please 
+
+[2025-11-28T13:14:26.672Z] : [info]: Total execution time: 18s 60ms
+
+[2025-11-28T13:14:26.673Z] : [info]: ---------------------------------------------
+
+[2025-11-28T13:15:57.665Z] : [success]: Bot started
+
+[2025-11-28T13:15:57.666Z] : [info]: Robot start
+
+[2025-11-28T13:16:12.119Z] : [error]: No extension found. Please 
+
+[2025-11-28T13:16:12.322Z] : [info]: Total execution time: 14s 453ms
+
+[2025-11-28T13:16:12.324Z] : [info]: ---------------------------------------------
+
+[2025-11-28T13:17:28.803Z] : [success]: Bot started
+
+[2025-11-28T13:17:28.805Z] : [info]: Robot start
+
+[2025-11-28T13:18:49.236Z] : [success]: Bot finished successfully, total execution time: 1m 20s 425ms
+
+[2025-11-28T13:18:49.239Z] : [info]: ---------------------------------------------
+
+[2025-11-28T13:20:39.842Z] : [success]: Robot saved successfully
+
+[2025-11-28T13:20:40.225Z] : [success]: Bot started
+
+[2025-11-28T13:20:40.227Z] : [info]: Robot start
+
+[2025-11-28T13:21:04.497Z] : [success]: Bot finished successfully, total execution time: 24s 266ms
+
+[2025-11-28T13:21:04.500Z] : [info]: ---------------------------------------------
+
+[2025-11-28T13:22:40.043Z] : [success]: Robot saved successfully
+
+[2025-11-28T13:22:40.460Z] : [success]: Bot started
+
+[2025-11-28T13:22:40.462Z] : [info]: Robot start
+
+[2025-11-28T13:22:54.995Z] : [success]: Bot finished successfully, total execution time: 14s 527ms
+
+[2025-11-28T13:22:54.999Z] : [info]: ---------------------------------------------
+
+[2025-11-28T13:23:47.778Z] : [success]: Robot saved successfully
+
+[2025-11-28T13:23:48.388Z] : [success]: Bot started
+
+[2025-11-28T13:23:48.390Z] : [info]: Robot start
+
+[2025-11-28T13:24:07.887Z] : [success]: Bot finished successfully, total execution time: 19s 488ms
+
+[2025-11-28T13:24:07.895Z] : [info]: ---------------------------------------------
+
+[2025-11-28T13:25:01.628Z] : [warn]: There is a small amount of free memory (RAM) left, 93.75% of RAM is being used (15072 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T13:31:01.635Z] : [warn]: There is a small amount of free memory (RAM) left, 90.22% of RAM is being used (14504 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T13:54:31.873Z] : [warn]: There is a small amount of free memory (RAM) left, 96.82% of RAM is being used (15565 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T13:57:32.127Z] : [warn]: There is a small amount of free memory (RAM) left, 92.33% of RAM is being used (14844 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T14:04:31.681Z] : [warn]: There is a small amount of free memory (RAM) left, 95.7% of RAM is being used (15386 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T14:11:16.452Z] : [success]: Robot saved successfully
+
+[2025-11-28T14:11:17.087Z] : [success]: Bot started
+
+[2025-11-28T14:11:17.089Z] : [info]: Robot start
+
+[2025-11-28T14:11:51.148Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-28T14:11:51.495Z] : [info]: Total execution time: 34s 57ms
+
+[2025-11-28T14:11:51.497Z] : [info]: ---------------------------------------------
+
+[2025-11-28T14:14:01.632Z] : [warn]: There is a small amount of free memory (RAM) left, 90.45% of RAM is being used (14542 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T14:17:01.682Z] : [warn]: There is a small amount of free memory (RAM) left, 91.22% of RAM is being used (14666 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T14:30:03.311Z] : [success]: Robot saved successfully
+
+[2025-11-28T14:30:03.521Z] : [success]: Bot started
+
+[2025-11-28T14:30:03.523Z] : [info]: Robot start
+
+[2025-11-28T14:30:56.896Z] : [success]: Bot finished successfully, total execution time: 53s 341ms
+
+[2025-11-28T14:30:56.902Z] : [info]: ---------------------------------------------
+
+[2025-11-28T14:36:15.652Z] : [success]: Robot saved successfully
+
+[2025-11-28T14:36:16.029Z] : [success]: Bot started
+
+[2025-11-28T14:36:16.031Z] : [info]: Robot start
+
+[2025-11-28T14:36:37.438Z] : [success]: Bot finished successfully, total execution time: 21s 403ms
+
+[2025-11-28T14:36:37.441Z] : [info]: ---------------------------------------------
+
+[2025-11-28T14:39:01.641Z] : [warn]: There is a small amount of free memory (RAM) left, 90.53% of RAM is being used (14554 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T14:42:01.654Z] : [warn]: There is a small amount of free memory (RAM) left, 90.58% of RAM is being used (14563 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T14:42:02.522Z] : [success]: Robot saved successfully
+
+[2025-11-28T14:42:03.084Z] : [success]: Bot started
+
+[2025-11-28T14:42:03.088Z] : [info]: Robot start
+
+[2025-11-28T14:42:14.743Z] : [success]: Bot finished successfully, total execution time: 11s 650ms
+
+[2025-11-28T14:42:14.745Z] : [info]: ---------------------------------------------
+
+[2025-11-28T14:45:01.681Z] : [warn]: There is a small amount of free memory (RAM) left, 94.09% of RAM is being used (15127 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T14:46:10.200Z] : [success]: Robot saved successfully
+
+[2025-11-28T14:46:10.297Z] : [success]: Bot started
+
+[2025-11-28T14:46:10.298Z] : [info]: Robot start
+
+[2025-11-28T14:46:25.557Z] : [success]: Bot finished successfully, total execution time: 15s 252ms
+
+[2025-11-28T14:46:25.561Z] : [info]: ---------------------------------------------
+
+[2025-11-28T14:47:08.938Z] : [success]: Robot saved successfully
+
+[2025-11-28T14:47:09.966Z] : [success]: Bot started
+
+[2025-11-28T14:47:09.969Z] : [info]: Robot start
+
+[2025-11-28T14:47:29.371Z] : [success]: Bot finished successfully, total execution time: 19s 386ms
+
+[2025-11-28T14:47:29.374Z] : [info]: ---------------------------------------------
+
+[2025-11-28T14:49:28.457Z] : [success]: Robot saved successfully
+
+[2025-11-28T14:49:28.999Z] : [success]: Bot started
+
+[2025-11-28T14:49:29.002Z] : [info]: Robot start
+
+[2025-11-28T14:49:51.744Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-28T14:49:51.934Z] : [info]: Total execution time: 22s 723ms
+
+[2025-11-28T14:49:51.935Z] : [info]: ---------------------------------------------
+
+[2025-11-28T14:50:59.218Z] : [success]: Robot saved successfully
+
+[2025-11-28T14:50:59.600Z] : [success]: Bot started
+
+[2025-11-28T14:50:59.601Z] : [info]: Robot start
+
+[2025-11-28T14:51:25.164Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-28T14:51:25.452Z] : [info]: Total execution time: 25s 562ms
+
+[2025-11-28T14:51:25.454Z] : [info]: ---------------------------------------------
+
+[2025-11-28T14:52:01.638Z] : [warn]: There is a small amount of free memory (RAM) left, 92.4% of RAM is being used (14855 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T14:52:20.935Z] : [success]: Robot saved successfully
+
+[2025-11-28T14:52:33.571Z] : [success]: Bot started
+
+[2025-11-28T14:52:33.575Z] : [info]: Robot start
+
+[2025-11-28T14:52:52.820Z] : [success]: Bot finished successfully, total execution time: 19s 237ms
+
+[2025-11-28T14:52:52.821Z] : [info]: ---------------------------------------------
+
+[2025-11-28T14:54:31.629Z] : [warn]: There is a small amount of free memory (RAM) left, 92.82% of RAM is being used (14923 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T14:55:24.357Z] : [success]: Robot saved successfully
+
+[2025-11-28T14:55:25.219Z] : [success]: Bot started
+
+[2025-11-28T14:55:25.222Z] : [info]: Robot start
+
+[2025-11-28T14:55:35.121Z] : [success]: Bot finished successfully, total execution time: 9s 873ms
+
+[2025-11-28T14:55:35.128Z] : [info]: ---------------------------------------------
+
+[2025-11-28T14:57:50.533Z] : [success]: Robot saved successfully
+
+[2025-11-28T14:57:51.679Z] : [success]: Bot started
+
+[2025-11-28T14:57:51.681Z] : [info]: Robot start
+
+[2025-11-28T14:58:23.202Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-28T14:58:23.466Z] : [info]: Total execution time: 31s 518ms
+
+[2025-11-28T14:58:23.467Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:00:55.959Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:00:56.082Z] : [success]: Bot started
+
+[2025-11-28T15:00:56.083Z] : [info]: Robot start
+
+[2025-11-28T15:01:19.411Z] : [error]: Script Stopped.
+
+[2025-11-28T15:01:19.664Z] : [info]: Total execution time: 23s 324ms
+
+[2025-11-28T15:01:19.665Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:04:29.547Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:04:30.202Z] : [success]: Bot started
+
+[2025-11-28T15:04:30.204Z] : [info]: Robot start
+
+[2025-11-28T15:04:52.073Z] : [success]: Bot finished successfully, total execution time: 21s 866ms
+
+[2025-11-28T15:04:52.075Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:05:29.655Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:08:12.367Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:08:12.771Z] : [success]: Bot started
+
+[2025-11-28T15:08:12.773Z] : [info]: Robot start
+
+[2025-11-28T15:08:29.011Z] : [success]: Bot finished successfully, total execution time: 16s 230ms
+
+[2025-11-28T15:08:29.015Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:10:01.027Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:10:01.843Z] : [success]: Bot started
+
+[2025-11-28T15:10:01.845Z] : [info]: Robot start
+
+[2025-11-28T15:10:26.828Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-28T15:10:27.029Z] : [info]: Total execution time: 24s 982ms
+
+[2025-11-28T15:10:27.030Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:10:48.736Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:10:59.415Z] : [success]: Bot started
+
+[2025-11-28T15:10:59.416Z] : [info]: Robot start
+
+[2025-11-28T15:11:08.805Z] : [success]: Bot finished successfully, total execution time: 9s 386ms
+
+[2025-11-28T15:11:08.806Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:12:36.267Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:12:42.069Z] : [success]: Bot started
+
+[2025-11-28T15:12:42.072Z] : [info]: Robot start
+
+[2025-11-28T15:12:55.575Z] : [success]: Bot finished successfully, total execution time: 13s 498ms
+
+[2025-11-28T15:12:55.577Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:13:20.333Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:17:32.758Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:17:38.580Z] : [success]: Bot started
+
+[2025-11-28T15:17:38.586Z] : [info]: Robot start
+
+[2025-11-28T15:17:55.281Z] : [success]: Bot finished successfully, total execution time: 16s 690ms
+
+[2025-11-28T15:17:55.283Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:20:01.627Z] : [warn]: There is a small amount of free memory (RAM) left, 90.1% of RAM is being used (14486 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T15:21:41.224Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:21:46.519Z] : [success]: Bot started
+
+[2025-11-28T15:21:46.519Z] : [info]: Robot start
+
+[2025-11-28T15:22:00.064Z] : [success]: Bot finished successfully, total execution time: 13s 541ms
+
+[2025-11-28T15:22:00.066Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:23:52.161Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:24:06.086Z] : [success]: Bot started
+
+[2025-11-28T15:24:06.087Z] : [info]: Robot start
+
+[2025-11-28T15:24:16.457Z] : [success]: Bot finished successfully, total execution time: 10s 365ms
+
+[2025-11-28T15:24:16.459Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:26:12.202Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:27:38.666Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:27:50.891Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:27:51.498Z] : [success]: Bot started
+
+[2025-11-28T15:27:51.500Z] : [info]: Robot start
+
+[2025-11-28T15:28:05.149Z] : [success]: Bot finished successfully, total execution time: 13s 644ms
+
+[2025-11-28T15:28:05.151Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:30:20.384Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:30:21.045Z] : [success]: Bot started
+
+[2025-11-28T15:30:21.047Z] : [info]: Robot start
+
+[2025-11-28T15:30:29.032Z] : [success]: Bot finished successfully, total execution time: 7s 980ms
+
+[2025-11-28T15:30:29.034Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:30:31.781Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:31:01.624Z] : [warn]: There is a small amount of free memory (RAM) left, 91.06% of RAM is being used (14639 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T15:33:54.744Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:34:02.872Z] : [success]: Bot started
+
+[2025-11-28T15:34:02.874Z] : [info]: Robot start
+
+[2025-11-28T15:34:31.622Z] : [warn]: There is a small amount of free memory (RAM) left, 90.25% of RAM is being used (14510 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T15:36:31.638Z] : [warn]: There is a small amount of free memory (RAM) left, 92.37% of RAM is being used (14850 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T15:36:49.632Z] : [error]: Script Stopped.
+
+[2025-11-28T15:36:49.906Z] : [info]: Total execution time: 2m 46s 756ms
+
+[2025-11-28T15:36:49.907Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:42:45.136Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:42:46.053Z] : [success]: Bot started
+
+[2025-11-28T15:42:46.054Z] : [info]: Robot start
+
+[2025-11-28T15:43:04.646Z] : [success]: Bot finished successfully, total execution time: 18s 587ms
+
+[2025-11-28T15:43:04.649Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:43:31.644Z] : [warn]: There is a small amount of free memory (RAM) left, 90.24% of RAM is being used (14508 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T15:44:54.861Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:45:00.444Z] : [success]: Bot started
+
+[2025-11-28T15:45:00.446Z] : [info]: Robot start
+
+[2025-11-28T15:45:47.008Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2025-11-28T15:45:47.211Z] : [info]: Total execution time: 46s 561ms
+
+[2025-11-28T15:45:47.211Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:46:31.633Z] : [warn]: There is a small amount of free memory (RAM) left, 92.62% of RAM is being used (14891 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T15:46:48.760Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:46:55.980Z] : [success]: Bot started
+
+[2025-11-28T15:46:55.983Z] : [info]: Robot start
+
+[2025-11-28T15:48:30.336Z] : [success]: Bot finished successfully, total execution time: 1m 34s 343ms
+
+[2025-11-28T15:48:30.340Z] : [info]: ---------------------------------------------
+
+[2025-11-28T15:56:01.609Z] : [warn]: There is a small amount of free memory (RAM) left, 90.2% of RAM is being used (14501 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T15:56:59.218Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:57:01.629Z] : [warn]: There is a small amount of free memory (RAM) left, 91.81% of RAM is being used (14760 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T15:59:01.605Z] : [warn]: There is a small amount of free memory (RAM) left, 92.95% of RAM is being used (14943 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T15:59:31.810Z] : [success]: Robot saved successfully
+
+[2025-11-28T15:59:32.768Z] : [success]: Bot started
+
+[2025-11-28T15:59:32.770Z] : [info]: Robot start
+
+[2025-11-28T15:59:46.984Z] : [success]: Bot finished successfully, total execution time: 14s 211ms
+
+[2025-11-28T15:59:46.987Z] : [info]: ---------------------------------------------
+
+[2025-11-28T16:00:14.971Z] : [success]: Robot saved successfully
+
+[2025-11-28T16:14:52.220Z] : [success]: Bot started
+
+[2025-11-28T16:14:52.222Z] : [info]: Robot start
+
+[2025-11-28T16:17:01.636Z] : [warn]: There is a small amount of free memory (RAM) left, 90.15% of RAM is being used (14493 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T16:17:14.696Z] : [error]: Disposable been disposed
+
+[2025-11-28T16:17:15.348Z] : [info]: Total execution time: 2m 22s 473ms
+
+[2025-11-28T16:17:15.350Z] : [info]: ---------------------------------------------
+
+[2025-11-28T16:18:06.672Z] : [success]: Robot saved successfully
+
+[2025-11-28T16:18:07.387Z] : [success]: Bot started
+
+[2025-11-28T16:18:07.388Z] : [info]: Robot start
+
+[2025-11-28T16:20:08.713Z] : [success]: Bot finished successfully, total execution time: 2m 1s 320ms
+
+[2025-11-28T16:20:08.715Z] : [info]: ---------------------------------------------
+
+[2025-11-28T16:21:31.700Z] : [warn]: There is a small amount of free memory (RAM) left, 91.52% of RAM is being used (14713 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2025-11-28T16:29:14.075Z] : [success]: Robot saved successfully
+
+[2025-11-28T16:29:19.864Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-28T16:29:19.866Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-28T16:29:19.868Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2025-11-28T16:29:19.870Z] : [error]: Cannot read properties of null (reading 'type')
+
